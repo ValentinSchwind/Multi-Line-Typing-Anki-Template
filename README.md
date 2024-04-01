@@ -10,7 +10,7 @@ Comparing the typed answer with the solution is done by a slightly modified vers
 Huge thanks to [Neil Fraser](https://github.com/google/diff-match-patch/commits?author=NeilFraser) and the other [contributors](https://github.com/google/diff-match-patch/graphs/contributors) for making that script available.
 
 The code highlighting is done by [highlight.js](https://highlightjs.org/) and an additional script written by [Arthur Milchior](https://www.milchior.fr/blog_en/).
-I want to thank the contributors of [highlight.js](https://highlightjs.org/) for creating the script, and Arthur Milchior for writing the helper script and a [blog post](http://www.milchior.fr/blog_en/index.php/post/2022/03/22/Syntax-coloring-of-code-in-Anki), from which I first learned about the possibility of employing highlight.js in an Anki template.
+I want to thank the [contributors](https://github.com/highlightjs/highlight.js/graphs/contributors) of [highlight.js](https://highlightjs.org/) for creating the script, and Arthur Milchior for writing the helper script and a [blog post](http://www.milchior.fr/blog_en/index.php/post/2022/03/22/Syntax-coloring-of-code-in-Anki), from which I first learned about the possibility of using highlight.js in an Anki template.
 
 The CSS style sheets for highlighting the code were originally created by [Jon Rohan](https://github.com/jonrohan) and are maintained by [Jan Pilzer](https://github.com/Hirse).
 
