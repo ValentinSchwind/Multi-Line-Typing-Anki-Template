@@ -40,7 +40,7 @@ You're now ready to install the template:
 Alternatively, you can download the .apk file with a sample deck from here.
 
 # Concerns about violation of the _minimum information principle_
-When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the "Minimum information principle".
+When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the [_minimum information principle_](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge).
 
 In my opinion, the _minimum information principle_ serves as a great guideline, and should be followed for the majority of your flashcards. It optimizes memorization and retention of information, and it also makes grading your answers easy.
 
