@@ -14,7 +14,9 @@ I want to thank the contributors of [highlight.js](https://highlightjs.org/) for
 
 The CSS style sheets for highlighting the code were originally created by [Jon Rohan](https://github.com/jonrohan) and are maintained by [Jan Pilzer](https://github.com/Hirse).
 
-I also want to shout out [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the Back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
+I also want to mention the add-on [Multi-Line Type Answer Box - 2](https://ankiweb.net/shared/info/1018107736). If you only need this functionality on the desktop version of Anki, this add-on works well.
+
+Furthermore, I want to mention [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
 
 # Installation
 ## Using CrowAnki
@@ -35,7 +37,7 @@ You're now ready to install the template:
 1. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens -- just press _OK_ to start the import. A dialog box should then confirm that the import was successful.
 
 ## Importing the .apk
-Alternatively, you can download the .apk file with a sample deck frome here.
+Alternatively, you can download the .apk file with a sample deck from here.
 
 # Concerns about violation of the _minimum information principle_
 When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the "Minimum information principle".
