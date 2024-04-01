@@ -402,6 +402,28 @@
             "guid": "cba_GSZnev",
             "note_model_uuid": "08059594-f015-11ee-a9e1-e509620133f6",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "if (variable_name == 1){<br>&nbsp; &nbsp; variable_name++;<br>}<br>else {<br>&nbsp; &nbsp; variable_name--;<br>}",
+                "",
+                "Define an if-else-expression. Increment a predefined variable, if it equals 1, decrement otherwise.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "c",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bEO,X(tOR+",
+            "note_model_uuid": "08059594-f015-11ee-a9e1-e509620133f6",
+            "tags": []
         }
     ],
     "reviewLimit": null,
