@@ -16,10 +16,10 @@ The CSS style sheets for highlighting the code were originally created by [Jon R
 
 I also want to shout out [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the Back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
 
-# Concerns about Violation of the "Minimum information principle"
+# Concerns about violation of the _minimum information principle_
 When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the "Minimum information principle".
 
-In my opinion, the "Minimum information principle" serves as a great guideline, and should be followed for the majority of your flashcards. It optimizes memorization and retention of information, and it also makes grading your answers easy.
+In my opinion, the _minimum information principle_ serves as a great guideline, and should be followed for the majority of your flashcards. It optimizes memorization and retention of information, and it also makes grading your answers easy.
 
 Like for most principles, I think there may be legitimate reasons which make it justifiable to not follow the "Minimum information principle" in certain circumstances.
 
