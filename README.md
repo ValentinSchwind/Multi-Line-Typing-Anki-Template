@@ -37,7 +37,7 @@ You're now ready to install the template:
 1. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens -- just press _OK_ to start the import. A dialog box should then confirm that the import was successful.
 
 ## Importing the .apkg
-Alternatively, you can download the .apkg file with a sample deck from here.
+Alternatively, you can download the .apkg file with a sample deck from [here](https://ankiweb.net/shared/info/934037994) or [here](https://drive.google.com/file/d/1hhX0nqhChrYtqq9KRu0O45xgYqTeqbGn/view?usp=sharing).
 
 # Concerns about violation of the _minimum information principle_
 When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the [_minimum information principle_](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge).
