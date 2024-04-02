@@ -156,70 +156,10 @@
                     "collapsed": false,
                     "description": "",
                     "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Example",
-                    "ord": 4,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "Abstract defenition of the syntax",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Synopsis",
-                    "ord": 5,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Rules",
-                    "ord": 6,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "Case Sensitivity",
-                    "ord": 7,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
                     "font": "Arimo",
                     "id": null,
                     "name": "Language",
-                    "ord": 8,
+                    "ord": 4,
                     "plainText": false,
                     "preventDeletion": false,
                     "rtl": false,
@@ -235,7 +175,7 @@
                     "font": "Arial",
                     "id": null,
                     "name": "Logo",
-                    "ord": 9,
+                    "ord": 5,
                     "plainText": false,
                     "preventDeletion": false,
                     "rtl": false,
@@ -250,7 +190,7 @@
                     "font": "Arial",
                     "id": null,
                     "name": "Programming-Idioms-Number",
-                    "ord": 10,
+                    "ord": 6,
                     "plainText": false,
                     "preventDeletion": false,
                     "rtl": false,
@@ -263,39 +203,9 @@
                     "description": "",
                     "excludeFromSearch": false,
                     "font": "Arial",
-                    "id": null,
-                    "name": "Extra",
-                    "ord": 11,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
-                    "name": "belongs_to",
-                    "ord": 12,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": null,
+                    "id": 5496814523892158703,
                     "name": "Source",
-                    "ord": 13,
+                    "ord": 7,
                     "plainText": false,
                     "preventDeletion": false,
                     "rtl": false,
@@ -315,7 +225,7 @@
                     "any",
                     [
                         0,
-                        8
+                        4
                     ]
                 ],
                 [
@@ -323,7 +233,7 @@
                     "any",
                     [
                         2,
-                        8
+                        4
                     ]
                 ],
                 [
@@ -332,8 +242,8 @@
                     [
                         0,
                         2,
-                        8,
-                        9
+                        4,
+                        5
                     ]
                 ]
             ],
@@ -388,13 +298,7 @@
                 "",
                 "Create a loop and print the loop count to the standard output.",
                 "",
-                "",
-                "",
-                "",
-                "",
                 "c",
-                "",
-                "",
                 "",
                 "",
                 ""
@@ -410,13 +314,7 @@
                 "",
                 "Define an if-else-expression. Increment a predefined variable, if it equals 1, decrement otherwise.",
                 "",
-                "",
-                "",
-                "",
-                "",
                 "c",
-                "",
-                "",
                 "",
                 "",
                 ""
