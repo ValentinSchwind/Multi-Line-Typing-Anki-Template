@@ -1,5 +1,5 @@
 # Intro
-This Anki template contains a text field in which you can type in the correct answer.
+This Anki template contains a text field in which you can type in your answer.
 It differs from the build in Anki note type, because it allows multi line answers to be typed in and checked for correctness.
 
 # Acknowledgements
