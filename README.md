@@ -2,6 +2,8 @@
 This Anki template contains a text field in which you can type in your answer.
 It differs from the build in Anki note type, because it allows multi line answers to be typed in and checked for correctness.
 
+![demonstration](https://github.com/ValentinSchwind/Multi-Line-Typing-Anki-Template/assets/68036918/65841d34-831e-4282-8210-cab7d8e95d4d)
+
 # Acknowledgements
 
 The main work is done by two scripts, without which I could not have created this template.
