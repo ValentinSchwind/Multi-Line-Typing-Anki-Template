@@ -20,7 +20,7 @@ I also want to mention the add-on [Multi-Line Type Answer Box - 2](https://ankiw
 Furthermore, I want to mention [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
 
 # Installation
-## Using CrowAnki
+## Using CrowdAnki
 Install Anki add-on [CrowdAnki](https://github.com/Stvad/CrowdAnki):
 
 1. Open Anki on your computer, go to the _Tools_ menu and select _Add-ons_.
