@@ -1,6 +1,11 @@
 # Intro
-This Anki template contains a text field in which you can type in your answer.
-It differs from the build in Anki note type, because it allows multi line answers to be typed in and checked for correctness.
+This Anki template offers two main features:
+- A text field in which you can type in your answer.
+
+offers two main features:
+- This
+- Dynamic code highlighting of the sample answer.s from the build in Anki note type, because it allows multi line answers to be typed in and checked for correctness  
+- Dynamic code highlighting of the sample answer.
 
 ![demonstration](https://github.com/ValentinSchwind/Multi-Line-Typing-Anki-Template/assets/68036918/65841d34-831e-4282-8210-cab7d8e95d4d)
 
