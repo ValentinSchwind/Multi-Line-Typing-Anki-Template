@@ -44,11 +44,11 @@ I also want to mention the add-on [Multi-Line Type Answer Box - 2](https://ankiw
 Furthermore, I want to mention [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
 
 ## Code Highlighting
-- [Syntax Highlighting (NG)](https://ankiweb.net/shared/info/566351439)
-    Addon for Anki Desktop. Creates Static code highlighting.
+[Syntax Highlighting (NG)](https://ankiweb.net/shared/info/566351439)
+Addon for Anki Desktop. Creates Static code highlighting.
     
-- [Anki programming flashcards](https://github.com/badlydrawnrob/anki)
-    Script using pandoc to create static code highlighting from markdown files.
+[Anki programming flashcards](https://github.com/badlydrawnrob/anki)
+Script using pandoc to create static code highlighting from markdown files.
 
 # Concerns about violation of the _minimum information principle_
 When multi line type checking has been requested and discussed in the past, some people have expressed the concern that it violates the [_minimum information principle_](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge).
