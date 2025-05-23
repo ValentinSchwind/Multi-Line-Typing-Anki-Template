@@ -35,11 +35,11 @@ To exit the text field, press <kbd>Esc</kbd> or <kbd>Ctrl</kbd> (Anki Desktop) o
 To compare your answer with the suggested solution, press <kbd>Space</kbd> or click on Anki's <span class="stylized_button">Show Answer</span> button.
 
 ### Markup Meaning
-<span style="background-color: green;">Correct Characters</span> Text marked like this was typed by you into the text field, and does appear in the suggested Solution.
+<img src="https://github.com/user-attachments/assets/2b27a59c-da14-4c59-a979-7aa48d6a74ee" height="22px" /> Text marked like this was typed by you into the text field, and does appear in the suggested Solution.
 
-<del style="text-decoration: none; background-color: blue;">Missed Characters</del> Text marked like this was <b>not</b> typed by you into the text field, but does appear in the suggested Solution.
+<img src="https://github.com/user-attachments/assets/2f480195-cbb0-41a1-b8ce-a3104e1a31c6" height="22px" /> Text marked like this was <b>not</b> typed by you into the text field, but does appear in the suggested Solution.
 
-<ins style="background-color: red;">False Characters</ins> Text marked like this was typed by you into the text field, but does <b>not</b> appear in the suggested Solution.
+<img src="https://github.com/user-attachments/assets/352e44b1-b03b-41a8-9611-2022be5c1e6a" height="22px" /> Text marked like this was typed by you into the text field, but does <b>not</b> appear in the suggested Solution.
 
 ## Configuration
 Replacing the themes for code highlighting:
