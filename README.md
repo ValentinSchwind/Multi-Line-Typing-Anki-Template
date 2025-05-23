@@ -36,7 +36,9 @@ To compare your answer with the suggested solution, press <kbd>Space</kbd> or cl
 
 ### Markup Meaning
 <span style="background-color: green;">Correct Characters</span> Text marked like this was typed by you into the text field, and does appear in the suggested Solution.
+
 <del style="text-decoration: none; background-color: blue;">Missed Characters</del> Text marked like this was <b>not</b> typed by you into the text field, but does appear in the suggested Solution.
+
 <ins style="background-color: red;">False Characters</ins> Text marked like this was typed by you into the text field, but does <b>not</b> appear in the suggested Solution.
 
 ## Configuration
