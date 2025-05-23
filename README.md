@@ -25,15 +25,34 @@ You're now ready to install the template:
 7. Don't change anything in the _CrowdAnki Import Settings_ dialog box that opens -- just press _OK_ to start the import. A dialog box should then confirm that the import was successful.
 
 ## Importing the .apkg
-Alternatively, you can download the .apkg file with a sample deck from [here](https://ankiweb.net/shared/info/934037994).
+Alternatively, you can download the `.apkg` file with a sample deck from [here](https://ankiweb.net/shared/info/934037994).
+
+# Usage
+## Typing in the answer and comparing it
+### Submitting your answer
+Your answer will be saved automatically on every keystroke, including deletions.</p>
+To exit the text field, press <kbd>Esc</kbd> or <kbd>Ctrl</kbd> (Anki Desktop) or click outside the text area.
+To compare your answer with the suggested solution, press <kbd>Space</kbd> or click on Anki's <span class="stylized_button">Show Answer</span> button.
+
+### Markup Meaning
+<span style="background-color: green;">Correct Characters</span> Text marked like this was typed by you into the text field, and does appear in the suggested Solution.
+<del style="text-decoration: none; background-color: blue;">Missed Characters</del> Text marked like this was <b>not</b> typed by you into the text field, but does appear in the suggested Solution.
+<ins style="background-color: red;">False Characters</ins> Text marked like this was typed by you into the text field, but does <b>not</b> appear in the suggested Solution.
+
+## Configuration
+Replacing the themes for code highlighting:
+- Download a theme from the [main prism.js repository](https://github.com/PrismJS/prism/tree/v2/themes) or get a wider collection [here](https://github.com/PrismJS/prism-themes).
+- Prepend the file name with an underscore ("`_`") to prevent Anki from auto-removing it when it checks for unused media files. 
+- Place the downloaded file in your collections [file directory](https://docs.ankiweb.net/files.html#file-locations).
+- Reference the file in the loading script.
 
 # Acknowledgements
 The main work is done by two libraries, without which I could not have created this template:
 
-- Comparing the typed answer with the solution is done by a slightly modified version of the diff part of [diff_match_patch.js](https://github.com/google/diff-match-patch/blob/master/javascript/diff_match_patch.js).
+Comparing the typed answer with the solution is done by a slightly modified version of the diff part of [diff_match_patch.js](https://github.com/google/diff-match-patch/blob/master/javascript/diff_match_patch.js).
 Huge thanks to [Neil Fraser](https://github.com/google/diff-match-patch/commits?author=NeilFraser) and the other [contributors](https://github.com/google/diff-match-patch/graphs/contributors) for making that script available.
 
-- The code highlight is currently done by [prism.js](https://prismjs.com/). Previously this template used [highlight.js](https://highlightjs.org/). This code is still available in a [separate branch](https://github.com/ValentinSchwind/Multi-Line-Typing-Anki-Template/tree/highlight-js-version). I want to thank the [contributors](https://github.com/PrismJS/prism/graphs/contributors), of [prism.js](https://prismjs.com/), as well as the [contributors](https://github.com/highlightjs/highlight.js/graphs/contributors) of [highlight.js](https://highlightjs.org/).
+The code highlight is currently done by [prism.js](https://prismjs.com/). Previously this template used [highlight.js](https://highlightjs.org/). This code is still available in a [separate branch](https://github.com/ValentinSchwind/Multi-Line-Typing-Anki-Template/tree/highlight-js-version). I want to thank the [contributors](https://github.com/PrismJS/prism/graphs/contributors), of [prism.js](https://prismjs.com/), as well as the [contributors](https://github.com/highlightjs/highlight.js/graphs/contributors) of [highlight.js](https://highlightjs.org/).
 
 I also want to thank Arthur Milchior for writing a [blog post](http://www.milchior.fr/blog_en/index.php/post/2022/03/22/Syntax-coloring-of-code-in-Anki), from which I first learned about the possibility of using highlight.js in an Anki template.
 
@@ -41,7 +60,7 @@ The CSS style sheets for highlighting the code were created by [Jon Rohan](https
 
 # Similar Projects
 ## Typing in the answer
-I also want to mention the add-on [Multi-Line Type Answer Box - 2](https://ankiweb.net/shared/info/1018107736). If you only need this functionality on the desktop version of Anki, this add-on works well.
+I also want to mention the add-on [Multi-Line Type Answer Box - 2](https://ankiweb.net/shared/info/1018107736). If you only need this functionality on the desktop version of Anki, this add-on should well.
 
 Furthermore, I want to mention [EmiliaClarkeGG](https://www.reddit.com/user/EmiliaClarkeGG/) who has already [posted](https://www.reddit.com/r/Anki/comments/15b11nq/solved_multiline_input_fields_in_Anki_without_an/) a template which lets you save your typed answer and display it on the back of the Card. If you just want to save your typed answer, without comparing it to text in your card, his template seems more straight forward and potentially all you need.
 
