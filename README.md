@@ -43,7 +43,7 @@ To compare your answer with the suggested solution, press <kbd>Space</kbd> or cl
 
 ## Configuration
 Replacing the themes for code highlighting:
-- Download a theme from the [main prism.js repository](https://github.com/PrismJS/prism/tree/v2/themes) or get a wider collection [here](https://github.com/PrismJS/prism-themes).
+- Download a theme from the [main prism.js repository](https://github.com/PrismJS/prism/tree/v2/themes) or get a wider range of themes from [here](https://github.com/PrismJS/prism-themes).
 - Prepend the file name with an underscore ("`_`") to prevent Anki from auto-removing it when it checks for unused media files. 
 - Place the downloaded file in your collections [file directory](https://docs.ankiweb.net/files.html#file-locations).
 - Reference the file in the loading script.
