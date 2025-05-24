@@ -41,6 +41,11 @@ To compare your answer with the suggested solution, press <kbd>Space</kbd> or cl
 
 <img src="https://github.com/user-attachments/assets/352e44b1-b03b-41a8-9611-2022be5c1e6a" height="22px" /> Text marked like this was typed by you into the text field, but does <b>not</b> appear in the suggested Solution.
 
+## Adding new cards
+When adding new notes to your collection, make sure to specify the programming or markup language which the code snippet is written in. This is necessary to enable code highlighting by `prism.js`, which (currently) does not support auto-detection of the language used in a code snippet. It is important to use the exact text string OR a supported alias, which is recognized by `prism.js`. You can find out which names and aliases are recognized by `prism.js` on the [website of prism.js](https://prismjs.com/#supported-languages). Add this piece of text to field 5 (named "Language") of the note.
+
+If you want your code to not be color-highlighted, but still e.g. disply whitespace characters, you can specify the language as "`plain`".  
+
 ## Configuration
 Replacing the themes for code highlighting:
 - Download a theme from the [main prism.js repository](https://github.com/PrismJS/prism/tree/v2/themes) or get a wider range of themes from [here](https://github.com/PrismJS/prism-themes).
