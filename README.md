@@ -44,7 +44,7 @@ To compare your answer with the suggested solution, press <kbd>Space</kbd> or cl
 ## Adding new cards
 When adding new notes to your collection, make sure to specify the programming or markup language which the code snippet is written in. This is necessary to enable code highlighting by `prism.js`, which (currently) does not support auto-detection of the language used in a code snippet. It is important to use the exact text string OR a supported alias, which is recognized by `prism.js`. You can find out which names and aliases are recognized by `prism.js` on the [website of prism.js](https://prismjs.com/#supported-languages). Add this piece of text to field 5 (named "Language") of the note.
 
-If you want your code to not be color-highlighted, but still e.g. disply whitespace characters, you can specify the language as "`plain`".  
+If you want your code to not be color-highlighted, but still e.g. display whitespace characters, you can specify the language as "`plain`".  
 
 ## Configuration
 Replacing the themes for code highlighting:
